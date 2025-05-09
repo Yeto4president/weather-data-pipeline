@@ -1,0 +1,4 @@
+requests==2.32.0
+mysql-connector-python==9.2.0
+python-dotenv==1.0.0
+flask==3.0.3
